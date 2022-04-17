@@ -1,0 +1,16 @@
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.exe
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.deps.json
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.runtimeconfig.json
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.runtimeconfig.dev.json
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.dll
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\bin\Debug\net5.0\entradaesaida1.pdb
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.csproj.AssemblyReference.cache
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.AssemblyInfoInputs.cache
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.AssemblyInfo.cs
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.csproj.CoreCompileInputs.cache
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.dll
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\refint\entradaesaida1.dll
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.pdb
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\entradaesaida1.genruntimeconfig.cache
+C:\ProjetoCsharp\entradaesaida1\entradaesaida1\obj\Debug\net5.0\ref\entradaesaida1.dll
